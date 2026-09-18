@@ -1,7 +1,6 @@
 .target-text {
-  color: #ff0000; /* 必要に応じて鮮やかな黄色(#ffff00)や見やすい黄(#ffd700)に調整してください */
   color: #ffd700;
-  font-size: 2rem; /* 大きさを変更したい場合はこの数値（例: 32px, 2.5rem等）を調整 */
-  font-family: "Hiragino Sans", "Meiryo", "Yu Gothic", sans-serif; /* ゴシック体の指定 */
+  font-size: 2rem;
+  font-family: "Hiragino Sans", "Meiryo", "Yu Gothic", sans-serif;
   font-weight: bold;
 }
